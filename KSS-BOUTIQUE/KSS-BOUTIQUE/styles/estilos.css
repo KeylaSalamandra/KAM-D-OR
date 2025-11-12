@@ -1,0 +1,30 @@
+.colorUno{
+background-color: #b75ec2;
+}
+.colorDos{
+background-color: #d4a8d7;
+}
+.colosTres{
+background-color: #ffe7ff;
+}
+
+.fuente {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.fondo{
+    background-image: url("../img/fondo.webp");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%; 
+}
+.letra{
+  font-size: 20px;
+}
+.btn.btn-primary:hover{
+  background-color: #b75ec2;
+  border-color: #b75ec2;
+  color: white;
+}

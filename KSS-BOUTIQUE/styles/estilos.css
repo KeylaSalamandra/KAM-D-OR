@@ -1,0 +1,25 @@
+.colorUno{
+background-color: #c0a661;
+}
+.colorDos{
+background-color: #1c1c1c;
+}
+.colosTres{
+background-color: #faf6f0;
+}
+
+.fuente {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.fondo{
+    background-image: url("../img/fondo\ joyeria.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%; 
+}
+.letra{
+  font-size: 20px;
+}
